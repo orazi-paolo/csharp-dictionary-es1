@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "csharp-dictionary-es1/1.0.0": {
+        "runtime": {
+          "csharp-dictionary-es1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-dictionary-es1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
